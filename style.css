@@ -64,12 +64,8 @@ main{
 }
 
 .problem {
-    color:white;
-    font-weight:bold;
-    font-size:40px;
     vertical-align: botttom;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    width: 100px;
+    width: 200px;
     height: 100px;
     position: relative;
     animation-name: example;
@@ -85,4 +81,12 @@ main{
     100% {Margin-left:75%;}
 }
 
+.google {
+    color:white;
+    font-weight:bold;
+    font-size:40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+
+}
   
